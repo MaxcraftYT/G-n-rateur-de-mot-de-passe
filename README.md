@@ -11,14 +11,6 @@ Un simple programme Python permettant de généré des mots de passes sécurisé
 ## ✨ Fonctionnalités
 
 - **Génération de mots de passe sécurisés** : Crée des mots de passe aléatoires et robustes avec des lettres majuscules, minuscules, des chiffres et des caractères spéciaux.
-  
-- **Personnalisation** : 
-   - Définir la **longueur** du mot de passe.
-   - Choisir si le mot de passe doit inclure **des majuscules**, **des minuscules**, **des chiffres**, et **des caractères spéciaux**.
-
-- **Utilisation de `secrets` pour la sécurité** : Utilisation du module `secrets` de Python pour garantir des choix aléatoires cryptographiquement sûrs, idéal pour les mots de passe.
-
-- **Vérification de la sécurité** : Si l'utilisateur entre une longueur trop courte (moins de 14 caractères), un avertissement est affiché pour garantir une meilleure sécurité.
 
 - **Messages esthétiques** : Affichage de messages clairs et esthétiques pour indiquer que le mot de passe a été généré avec succès, avec des emojis et des séparateurs pour rendre l'interface agréable.
 
